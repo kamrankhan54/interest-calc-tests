@@ -63,4 +63,5 @@ npx playwright show-report
 
 You can view and track identified bugs for the Interest Calculator on Trello:
 
-https://trello.com/b/8ZA3kWCl/interest-calculator-bugs
+🔗 [Interest Calculator Bugs Board](https://trello.com/b/8ZA3kWCl/interest-calculator-bugs)
+
