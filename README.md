@@ -36,19 +36,19 @@ npm install
 
 ### 2️⃣ Run tests in headless mode
 
-# Chrome
+#### Chrome
 npm run test:chromium
 
-# Firefox
+#### Firefox
 npm run test:firefox
 
-# Safari
+#### Safari
 npm run test:safari
 
-# All browsers (headless) in parallel
+#### All browsers (headless) in parallel
 npm run test:headless
 
-# Open Playwright GUI and run tests manually
+#### Open Playwright GUI and run tests manually
 npm run test:ui
 
 ### 3️⃣ Run tests with browser UI (headed mode)
