@@ -1,0 +1,6 @@
+# Playwright test outputs
+playwright-report/
+test-results/
+# Playwright cache and downloads
+node_modules/
+blob-report/
