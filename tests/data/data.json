@@ -1,0 +1,8 @@
+{
+    "app": "http://3.8.242.61/",
+    "login": "http://3.8.242.61/Account/Login",
+    "loginCreds": {
+        "username": "ENTER USERNAME HERE",
+        "password": "ENTER PASSWORD HERE"
+    }
+}
