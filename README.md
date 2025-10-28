@@ -25,7 +25,11 @@ This approach helped me save time and ensure more reliable, maintainable test co
 
 The diagram below shows how the Interest Calculator Test Framework is structured, including the components, data handling, and browser setup.
 
-![Playwright Test Automation Framework Architecture](https://freeimage.host/i/K6AqMve)
+<p align="center">
+  <img src="https://freeimage.host/i/screenshot-2025-10-28-at-000107.K6AqMve" 
+       alt="Playwright Test Automation Framework Architecture" 
+       width="850">
+</p>
 
 
 ## 🚀 Getting Started
