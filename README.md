@@ -25,7 +25,7 @@ This approach helped me save time and ensure more reliable, maintainable test co
 
 The diagram below shows how the Interest Calculator Test Framework is structured, including the components, data handling, and browser setup.
 
-https://freeimage.host/i/screenshot-2025-10-28-at-000107.K6AqMve
+![Framework Architecture](https://freeimage.host/i/screenshot-2025-10-28-at-000107.K6AqMve)
 
 
 ## 🚀 Getting Started
