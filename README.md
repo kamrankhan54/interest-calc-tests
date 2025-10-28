@@ -25,17 +25,16 @@ This approach helped me save time and ensure more reliable, maintainable test co
 
 The diagram below shows how the Interest Calculator Test Framework is structured, including the components, data handling, and browser setup.
 
-![Playwright Test Automation Framework Architecture](https://i.ibb.co/hJd1kskR/architecture.png)
+![Playwright Test Automation Framework Architecture](https://freeimage.host/i/K6AqMve)
 
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Install dependencies
 
-```bash
 npm install
 
-2️⃣ Run tests in headless mode
+### 2️⃣ Run tests in headless mode
 
 # Chrome
 npm run test:chromium
@@ -52,15 +51,15 @@ npm run test:headless
 # Open Playwright GUI and run tests manually
 npm run test:ui
 
-3️⃣ Run tests with browser UI (headed mode)
+### 3️⃣ Run tests with browser UI (headed mode)
 
 npx playwright test --headed
 
-4️⃣ View the HTML report
+### 4️⃣ View the HTML report
 
 npx playwright show-report
 
-🐞 Bugs Found
+### 🐞 Bugs Found
 
 You can view and track identified bugs for the Interest Calculator on Trello:
 
